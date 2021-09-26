@@ -162,16 +162,5 @@ def number(s):
         x_0 += 40
 
 number("16122003")
-'''
-zero(-200, 0)
-one(-160, 0)
-two(-120, 0)
-three(-80, 0)
-four(-40, 0)
-five(0, 0)
-six(40, 0)
-seven(80, 0)
-eight(120, 0)
-nine(160, 0)
-'''
+
 turtle.exitonclick()
