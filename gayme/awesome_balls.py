@@ -37,6 +37,7 @@ name = name[:8]
 
 
 class Leaderboard:
+    """ таблица лидеров """
 
     def __init__(self, fileName):
         try:
